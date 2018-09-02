@@ -5,7 +5,7 @@
 <form method="post" action="login.php">
 <table>
 <tr> 
-<td> Name: </td>
+<td> Enter your Name: </td>
 <td><input type="text" name="username"> </td>
 </tr>
 <tr>
