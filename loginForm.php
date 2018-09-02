@@ -9,7 +9,7 @@
 <td><input type="text" name="username"> </td>
 </tr>
 <tr>
-<td> Your Password: </td>
+<td> Your Password Please: </td>
 <td> <input type="password" name="password"> </td>
 </tr>
 <tr>
